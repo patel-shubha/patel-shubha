@@ -1,8 +1,7 @@
 ### Hi 👋, I'm Shubha H S,
 
                                                                                 
-                           patel.shubha@gmail.com   |   Bangalore, India
-
+                           
 EDUCATION
 
 Data Science Bootcamp, Jovian                                                                                    Oct 2022 - Ongoing
