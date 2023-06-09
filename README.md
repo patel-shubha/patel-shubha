@@ -1,4 +1,4 @@
-### Hi 👋, I'm Shubha H S, 
+### Hi 👋, I'm Shubha 
 
 a datascience enthusiast from India. I enjoy solving real-world problems with data. I am currently learning Data Science and Machine Learning from Jovian(the Data Science Bootcamp with Jovian) where I completed 600+ hours of course work, 10 coding assignments and 3 projects on Web Scraping, Exploratory Data Analysis and Machine Learning.
 
